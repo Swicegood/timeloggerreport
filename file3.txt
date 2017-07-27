@@ -1,0 +1,3 @@
+this record contains apple
+this does not
+again we see apple
