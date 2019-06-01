@@ -1,6 +1,6 @@
 import re
 
-file = open("C:\\Users\\jguru\\Google Drive\\Computer\\pyhon\\equality.txt", "r")
+file = open("/Users/jaga/Google Drive/Computer/pyhon/equality.txt", "r")
 
 message = ""
 
