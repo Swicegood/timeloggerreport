@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24f600cf-d75d-4983-8356-f24d8a3f18a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Pathagorean_triples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../12statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/../12statements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FIFO_Queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FIFO_Queue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fizzbuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Fizzbuzz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../equality.py" beforeDir="false" afterPath="$PROJECT_DIR$/../equality.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../equality2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../equality2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../file1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../file1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../file3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../file3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../jort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mutual_recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mutual_recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nested_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/../nested_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ocr.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ocr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ordered_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ordered_word.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pipe3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pipe3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../raw_data_ocr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../raw_data_ocr.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check_camera" beforeDir="false" afterPath="$PROJECT_DIR$/../check_camera" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/KroneckerProductFractals.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="105">
+              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -57,16 +44,6 @@
         <option value="$PROJECT_DIR$/IteratedDigitsSquaring.py" />
         <option value="$PROJECT_DIR$/kroneckerProduct.py" />
         <option value="$PROJECT_DIR$/KroneckerProductFractals.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/learning.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
     </option>
   </component>
@@ -108,6 +85,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -238,6 +216,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="895" y="413" width="1546" height="881" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -308,8 +287,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/KroneckerProductFractals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="105">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
